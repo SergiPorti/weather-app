@@ -17,4 +17,4 @@
 > - También, utilizar Lozalizacion para que el DateTime se le pase el Locale() del dispositivo.</br>
 > - Utilizar y hacer uso de todos los estados que he hecho para controlar diferentes situaciones en los estados de los BLoC así mismo hacer una pantalla en específico según el estado.</br>
 > - Usar ThemeCubit que ya está creado, se debería hacer un ThemeData custom según el estado del booleano y si uno quiere, cambiar la UI del widget de home_page.dart.</br>
-> - Utilizar la carpeta Data, hacer el data_provider y repositori pertinente para hacer la llamada a la API de weather.
+> - Utilizar la carpeta Data, hacer el data_provider y repository pertinente para hacer la llamada a la API de weather.
