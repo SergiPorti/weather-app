@@ -13,8 +13,8 @@
 >BLoC se refiere a Business Logic Component
 
 >[!NOTE]
-> En esta app se podrían mejorar varias cosas como por ejemplo, refactorizar home_page.dart en componentes más pequeños para que no sea una clase tan extensa.
-> También, utilizar Lozalizacion para que el DateTime se le pase el Locale() del dispositivo.
-> Utilizar y hacer uso de todos los estados que he hecho para controlar diferentes situaciones en los estados de los BLoC así mismo hacer una pantalla en específico según el estado.
-> Usar ThemeCubit que ya está creado, se debería hacer un ThemeData custom según el estado del booleano y si uno quiere, cambiar la UI del widget de home_page.dart.
-> Utilizar la carpeta Data, hacer el data_provider y repositori pertinente para hacer la llamada a la API de weather.
+> - En esta app se podrían mejorar varias cosas como por ejemplo, refactorizar home_page.dart en componentes más pequeños para que no sea una clase tan extensa.</br>
+> - También, utilizar Lozalizacion para que el DateTime se le pase el Locale() del dispositivo.</br>
+> - Utilizar y hacer uso de todos los estados que he hecho para controlar diferentes situaciones en los estados de los BLoC así mismo hacer una pantalla en específico según el estado.</br>
+> - Usar ThemeCubit que ya está creado, se debería hacer un ThemeData custom según el estado del booleano y si uno quiere, cambiar la UI del widget de home_page.dart.</br>
+> - Utilizar la carpeta Data, hacer el data_provider y repositori pertinente para hacer la llamada a la API de weather.
