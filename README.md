@@ -2,7 +2,7 @@
 <p>Pequeña app del Tiempo que utiliza la Api de OpenWeatherMap, esta api está integrada directamente en un package de Flutter llamado "Weather"</p>
 <p>Esta app la he hecho para estudiar y entender tanto la arquitectura BLoC como el provider mismo</p>
 
-<p>Imagen de la App</p>
+<p>Imagen de la App desde un emulador Pixel 7 - API 34</p>
 
 ![IMAGE](https://i.imgur.com/c7FgNV2.png)
 
