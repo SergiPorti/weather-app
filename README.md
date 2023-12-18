@@ -15,4 +15,5 @@
 >[!NOTE]
 > En esta app se podrían mejorar varias cosas como por ejemplo, refactorizar home_page.dart en componentes más pequeños para que no sea una clase tan extensa.
 > También, utilizar Lozalizacion para que el DateTime se le pase el Locale() del dispositivo.
-> Quizás utilizar el AppThemeCubit para cambiar el theme de la app, para ello, se tendría que hacer un ThemeData customizado y, cambiar la UI de home_page.dart.
+> Utilizar y hacer uso de todos los estados que he hecho para controlar diferentes situaciones en los estados de los BLoC así mismo hacer una pantalla en específico según el estado.
+> Usar ThemeCubit que ya está creado, se debería hacer un ThemeData custom según el estado del booleano y si uno quiere, cambiar la UI del widget de home_page.dart.
