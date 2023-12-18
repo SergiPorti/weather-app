@@ -3,7 +3,8 @@
 <p>Esta app la he hecho para estudiar y entender tanto la arquitectura BLoC como el provider mismo</p>
 
 <p>Imagen de la App</p>
-![image](https://i.imgur.com/c7FgNV2.png)
+
+![IMAGE](https://i.imgur.com/c7FgNV2.png)
 
 >[!IMPORTANT]
 > Para poder utilizar correctamente esta APP, tienes que importar el siguiente package --> https://pub.dev/packages/weather, además, registrate en --> https://openweathermap.org/ y poner la API_KEY que te proporcionan en environment.dart
