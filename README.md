@@ -5,5 +5,5 @@
 > Para poder utilizar correctamente esta APP, tienes que importar el siguiente package --> https://pub.dev/packages/weather, además, registrate en --> https://openweathermap.org/ y poner la API_KEY que te proporcionan en environment.dart
 
 >[!TIP]
->BLOC se refiere a Business Logic Component 
+>BLoC se refiere a Business Logic Component 
 
